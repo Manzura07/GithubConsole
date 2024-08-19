@@ -19,3 +19,12 @@ Git komandalari.
  - git commit -m "comment" --> koddagi o'zgarishlarni comentariya bilan commit qilib qo'yadi.
  - git push --> loyihadagi o'zgarishlarni repository ga qo'shadi.
  - git add . --> hamma file larni birdaniga git ga qo'shadi.
+Git komandalari:
+- git branch - loyiha qaysi branchda turganimizni tekshiradi.
+- git checkout - b <new branch name> - yangi branch yaratadi va shu yaratilgan branchga o'tadi.
+- git checkout <existing branch name> - oldindan mavjud branch nomi ko'rsatilsa shu branchga o'tadi.
+- git push origin HEAD - yangi yaratilgan branchdan turib main branchga pull request qiladi.
+- git clone <repository link> - repositoryni kompyuterga clone qilib oladi.
+
+Github bilan ishlash:
+ - Githubda fork qilish - Githubda birorta repositoryni nusxasini o'zimizning Github accountda yaratib beradi.
